@@ -30,6 +30,6 @@ In this project, I performed the following steps:
 
 ## Dataset
 
-The dataset was sourced from Kaggle and contains various features related to housing prices. The dataset was split into training and testing sets, and after preprocessing, the Random Forest model was used to predict housing prices.
+The dataset was sourced from Kaggle playground and contains various features related to housing prices. The dataset was split into training and testing sets, and after preprocessing, the Random Forest model was used to predict housing prices.
 
 
